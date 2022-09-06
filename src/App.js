@@ -1,8 +1,8 @@
-
+import Users from './Users';
 function App() {
   return (
     <div className="App">
-      안녕하세요. Api 연동을 해 보아요.
+      <Users />
     </div>
   );
 }
